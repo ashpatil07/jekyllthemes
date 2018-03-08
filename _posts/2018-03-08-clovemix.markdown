@@ -4,7 +4,7 @@ title: Clovemix
 date: 2018-03-08 05:32:00
 homepage: https://github.com/ashpatil07/clovemix-jekyll-theme
 download: https://github.com/ashpatil07/clovemix-jekyll-theme/archive/master.zip
-demo: http://scribble.muan.co/2013/05/06/scribble-the-jekyll-theme/
+demo: ashpatil07.github.io
 author: Ashish Patil
 thumbnail: clovemix.png
 license: MIT License
