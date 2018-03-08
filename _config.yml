@@ -1,16 +1,7 @@
-name: Jekyll Themes
-url: http://matt.harzewski.com
-description: Insert tagline here
+name: Clovemix
+url: https://github.com/ashpatil07/clovemix-jekyll-theme
+description: Jekyll version of Dopetrope html5 template.
 
 permalink: /themes/:title/
-
-gems: [jekyll-paginate]
-
-highlighter: pygments
-paginate: 20
-
-markdown: rdiscount
-rdiscount:
-    extensions: ['smart']
 
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile', 'vendor']

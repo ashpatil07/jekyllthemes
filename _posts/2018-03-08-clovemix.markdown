@@ -1,0 +1,15 @@
+---
+layout: post
+title: Clovemix
+date: 2018-03-08 05:32:00
+homepage: https://github.com/ashpatil07/clovemix-jekyll-theme
+download: https://github.com/ashpatil07/clovemix-jekyll-theme/archive/master.zip
+demo: http://scribble.muan.co/2013/05/06/scribble-the-jekyll-theme/
+author: Ashish Patil
+thumbnail: clovemix.png
+license: MIT License
+license_link: https://github.com/ashpatil07/clovemix-jekyll-theme/blob/master/LICENSE.txt
+---
+
+This is my first Jekyll theme and i used Dopetrope html5 template. This is Jekyll
+version of Dopetrope html5 template.
